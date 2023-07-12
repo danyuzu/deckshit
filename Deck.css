@@ -1,0 +1,20 @@
+
+.cardcontainer
+{
+  
+    margin-top: 10rem;
+    align-items: center;
+}
+.tabla{
+   background-color: aqua;
+   width: 35rem;
+   height: 28rem;
+   margin-left: 5rem;
+   margin-top: -5rem;
+
+}
+.btne
+{
+   
+    background-color: rgb(170, 163, 163);
+}
